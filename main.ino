@@ -1,4 +1,7 @@
 koeee porraaaaa
+fla ae tranquilao
+sim ta tranquilao por que
+so testando aqui umas paradas
 
 #include <Adafruit_Sensor.h>
 #include <Adafruit_HMC5883_U.h>
